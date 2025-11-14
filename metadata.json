@@ -1,0 +1,8 @@
+{
+  "name": "Bodh AI",
+  "description": "Bodh, the official AI assistant for the Indus Audio Visual Media Awards, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
